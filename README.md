@@ -1,4 +1,9 @@
 # 💫 About Me:
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=7B2CBF&width=435&lines=Rudra+Joshi;Flow+State+Coder;AI+Explorer)](https://git.io/typing-svg)
+
+
 Hey, I’m Rudra, a coder who likes turning ideas into working projects.<br>I focus on writing clear code, fixing tricky bugs, and making things work smoothly behind the scenes.<br>I’m always exploring new concepts, improving my skills, and experimenting with projects that push me to think better.<br>Open to learning from others, sharing what I know, and collaborating on smart and fun ideas.
 
 
