@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Rudra Joshi
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=7B2CBF&width=435&lines=Rudra+Joshi;Flow+State+Coder;AI+Explorer)](https://git.io/typing-svg)
